@@ -1,5 +1,0 @@
-Type: Compendium
-Package: name_of_package
-Version: 0.1.0
-Depends: dplyr, ggplot2, wesanderson
-
